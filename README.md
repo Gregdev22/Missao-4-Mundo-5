@@ -10,26 +10,28 @@
 * DESENVOLVIMENTO FULL STACK- 
 * Disciplina: RPG0034  - Dando inteligência ao software
 * Semestre Letivo: 2024.2
-* Repositorio Git: 
+* Repositorio Git: https://github.com/Gregdev22/Missao-4-Mundo-5
 
 <hr>
 
 * [EMERSON GREGORIO ALVES](https://github.com/Gregdev22) - MATRICULA: 2022.0908.4986
 <hr>
- <h1 align="center"> Missão Prática | Nível 3 | Mundo 5 </h1>
- <h2 align="left" > TRATANDO A IMENSIDÃO DOS DADOS </h2> 
+ <h1 align="center"> Missão Prática | Nível 4 | Mundo 5 </h1>
+ <h2 align="left" > Dando inteligência ao software </h2> 
  <hr>
  
  <h2> :clipboard: Objetivos da Prática </h2>
 
-* Descrever como ler um arquivo CSV usando a biblioteca Pandas (Python);
-* Descrever como criar um subconjunto de dados a partir de um conjunto existente usando a biblioteca Pandas (Python);
-* Descrever como configurar o número máximo de linhas a serem exibidas na visualização de um conjunto de dados usando a biblioteca Pandas (Python);
-*Descrever como exibir as primeiras e últimas “N” linhas de um conjunto de dados usando a biblioteca Pandas (Python); Descrever como exibir informações gerais
-sobre as colunas, linhas e dados de um conjunto de dados usando a biblioteca Pandas (Python);
+* Configurar o ambiente Google Colab;
+* Descrever tarefas diversas relacionadas ao Processamento de Linguagem Natural;
+* Descrever o processo de identificação de entidades a partir de textos;
+* Descrever o processo de extração de frases-chave a partir de textos;
+* Descrever o processo de identificação de linguagem predominante a partir de textos;
 
 <hr>
 <h2> Códigos </h2>
 
 # As atividades foram desenvolvidas no Google Colab.
-https://github.com/Gregdev22/Missao-3-Mundo-5/blob/main/MP_NV3.ipynb
+https://github.com/Gregdev22/Missao-4-Mundo-5/blob/main/sentiment.ipynb
+
+
